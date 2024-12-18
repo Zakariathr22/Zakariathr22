@@ -1,6 +1,6 @@
 ## Hi, I am Zakaria Tahri 👋
 
-🔭 I’m currently working on building innovative apps with WinUI 3, including my project Hakim, designed for orthopedic doctors to follow up with patients.
+🔭 I’m currently working on building innovative apps with WinUI 3, including my project [Hakim](https://github.com/Zakariathr22/Hakim), designed for orthopedic doctors to follow up with patients. Contributing in open-source project like [WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery).
 
 🌱 I’m currently learning React and advanced concepts in C++.
 
