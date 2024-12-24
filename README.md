@@ -12,7 +12,4 @@
 
 📫 How to reach me: zakotahri@outlook.com
 
-😂 Fun fact about me:
-
-I thought CS would be my golden ticket to making money. Turns out, I’ve only been investing in it like a bad startup—every penny I’ve made came from anything but CS. Guess I spent my life mastering an expensive hobby 😂.
-> `Despite that`, I couldn’t give up programming because I love it—it's part of who I am ❤️.
+> I love programming, it's part of who I am ❤️.
