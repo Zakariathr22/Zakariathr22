@@ -1,4 +1,4 @@
-## Hi, I am Zakaria Tahri 👋
+## Hi, I am Zakaria👋
 
 ### Welcome to my GitHub profile! 🎉 Let's build, learn, and grow together! 🚀
 
