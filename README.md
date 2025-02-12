@@ -14,4 +14,4 @@
 
 😂 **Fun fact about me:** I chose to study CS without knowing what it was! I thought it was all about building computers, but it turns out it's just telling them what to do... and hoping they listen!
 
-> It's not about being a genius; it's about being a hard worker.
+> "Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison
