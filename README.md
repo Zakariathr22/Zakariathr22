@@ -17,4 +17,4 @@
 > **Favourite quote:**
 >  "The person who moves a mountain begins by carrying away small stones." – Confucius
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zakariathr22&theme=default)<img src="https://github.com/user-attachments/assets/ba4bf2f9-9325-44e7-9969-e33183caa5fa" width="200">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zakariathr22&theme=default)
