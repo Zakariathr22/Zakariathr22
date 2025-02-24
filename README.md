@@ -10,7 +10,7 @@
 
 💬 **Ask me about** WinUI 3 development, FluentUI design principles, or creating healthcare applications.  
 
-📫 **How to reach me:** zakotahri@outlook.com
+📫 **How to reach me:** zakotahri@outlook.com or [Discord](http://discordapp.com/users/808108427380916284)
 
 😂 **Fun fact about me:** I chose to study CS without knowing what it was! I thought it was all about building computers, but it turns out it's just telling them what to do... and hoping they listen!
 
