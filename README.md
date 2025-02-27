@@ -13,5 +13,3 @@
 😂 **Fact about me:** overanalyze everything. 😆
 
 📝 **Favourite quote:** "The person who moves a mountain begins by carrying away small stones." – Confucius
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zakariathr22&theme=dark)
