@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile! 🎉 Let's build, learn, and grow together! 🚀
 
-🔭 **I’m currently working on** building apps with WinUI 3. Also, I contribute to open-source projects like [WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery).
+🔭 **I’m currently working on** building apps with WinUI 3.
 
 👯 **I’m looking to collaborate on** Windows apps development, or tools that simplify complex workflows.
 
